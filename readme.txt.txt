@@ -1,3 +1,9 @@
+INSTALL THIS (pip install streamlit transformers torch torchaudio soundfile scipy bark ibm-watsonx-ai)
+
+
+
+
+
 EchoVerse: AI-Powered Audiobook Creation Tool
 Description:
 EchoVerse is a generative AI-based application that transforms text into expressive, downloadable audio content. Designed for accessibility and content reusability, the tool empowers users to convert written material into natural-sounding narrations with a customizable tone and voice.
@@ -63,4 +69,5 @@ Create a short video of you running the application, showing a live demonstratio
 Take a series of screenshots of the different stages of the application.
 
 Step 5: Package for Submission
+
 Finally, zip the entire EchoVerse folder. The zipped file will contain all your code, documentation, and the requirements.txt file, making it easy for the person reviewing your project to use.
